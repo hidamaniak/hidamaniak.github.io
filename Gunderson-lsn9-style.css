@@ -1,26 +1,29 @@
- body {font-family = Arial;
-			background-color = white;}
- ul {list-style-type = none;}
- .white {color = lightblue;}
- .fctr {text-align = Center;
-			background-color = darkgreen;k
- caption {color = green;}
- table {font-size = 15px;
-			border = 5px;}
- thead>tr>thead {background-color = orange;
-					color = black;}
- tr,td {border = 5px;}
- img {border = 10px;}
- nav ul {padding = 5px;
-			font-size = Arial;}
- Legend and Button {background-color = orange; 
-						color = black; 
-						font-family = Verdana;}
- Label {font-family = Arial;}
- h2 {color = black;}
- header {background-color = orange;
-				font-size = 25px;
-				color = black;
-				text-align = center;
-				padding = 5px;
-				margin-bottom = 10px;}
+ body {font-family : Verdana;
+			background-color : lightgrey;}
+ ul {list-style-type : none;}
+ .white {color : white;}
+ .fctr {text-align : Center;
+			background-color : lightgrey;}
+ caption {color : darkred;}
+ table {font-size : 15px;
+			border : 5px darkgray solid;}
+ thead>tr>th {background-color : black;
+				color : white;}
+ tr,td {border : 5px darkgrey solid;}
+ img {border : 10px darkgrey solid;}
+ nav ul {padding : 0px;
+			font-size : 15px;}
+ Legend {background-color : darkgray; 
+			color : black; 
+				font-family : Verdana;}
+ Button {background-color : black; 
+			color : white; 
+				font-family : Verdana;}
+ Label {font-family : Verdana;}
+ h2 {color : black;}
+ header {background-color : black;
+			font-size : 20px;
+				color : white;
+					text-align : center;
+						padding : 5px;
+							margin-bottom : 10px;}
