@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <title>Concert Form</title>
-  <link href="concert.css" type="text/css" rel="stylesheet" />
+  <link href="Lab14_concert.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
   <div class="container">
@@ -47,8 +47,11 @@
 		print ("<ul><li><b>TOTAL:</b><b>$".number_format($totalCost, 2)."</b></li></ul");
 		print ("<h3>Thank you for using this program!</h3>");
 	?>
+	<br>
+	<br>
     <footer class = "fctr">
-        <a class="white" href="concert_form.html">Return to Form Entry To Continue</a>
+        <a class="white" href="Lab14_concert_form.html">Return to Form Entry To Continue</a>
+		 <p class = "white">&copy; Copyright 2024 by E.R. Gunderson</p>
     </footer>
   </div> 
 </body>
