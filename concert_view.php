@@ -12,7 +12,6 @@
     <?php	
       #Receive inputs values from HTML form
           $email = $_POST['email'];
-		 
 	  #declare database connection variables 
 		  $server = "hermes.waketech.edu";
 		  $user =  "ergunderson";
@@ -53,9 +52,10 @@
        }
     }
     ?>
+	<br>
     <footer class = "fctr">
-        <a class = "white" href="concert_lp.html">Return to Main page</a>
-        <p class = "white">&copy; Copyright 2024 by E.R. Gunderson</p>
+    <p><a class = "white" href="concert_lp.html">Return to Main page</a></p>
+    <p class = "white">&copy; Copyright 2024 by Team One</p>
     </footer>
   </div> 
 </body>

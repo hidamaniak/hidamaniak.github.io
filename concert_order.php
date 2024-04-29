@@ -67,9 +67,10 @@
 			  mysqli_close($connect);
 
     ?>
+	<br>
     <footer class = "fctr">
 	<p><a class="white" href="concert_form.html">Return to Main Page</a></p>
-	<p class = "white">&copy; Copyright 2024 by E.R. Gunderson</p>
+	<p class = "white">&copy; Copyright 2024 by Team One</p>
     </footer>
   </div> 
 </body>
